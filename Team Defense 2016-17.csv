@@ -1,0 +1,129 @@
+﻿League,Goals Against,Team,GA Home,GA Away,GA First Half,GA Second Half,GA First 15 mins,GA Last 10 mins,GA Home Matches Scored In,GA Away Matches Scored In,GA Pld,GA Per Match,Season,KEY
+Premier League,26,Tottenham Hotspur,9,17,11,15,3,4,12,5,38,0.68,2016/17,Premier League|Tottenham Hotspur|2016/17
+Premier League,29,Manchester United,12,17,11,18,4,6,8,9,38,0.76,2016/17,Premier League|Manchester United|2016/17
+Premier League,33,Chelsea,17,16,19,14,7,3,8,8,38,0.87,2016/17,Premier League|Chelsea|2016/17
+Premier League,39,Manchester City,17,22,17,22,8,6,5,7,38,1.03,2016/17,Premier League|Manchester City|2016/17
+Premier League,42,Liverpool,18,24,20,22,5,6,6,6,38,1.11,2016/17,Premier League|Liverpool|2016/17
+Premier League,44,Everton,16,28,22,22,8,7,8,5,38,1.16,2016/17,Premier League|Everton|2016/17
+Premier League,44,Arsenal,16,28,17,27,6,5,9,4,38,1.16,2016/17,Premier League|Arsenal|2016/17
+Premier League,48,Southampton,21,27,18,30,7,11,8,6,38,1.26,2016/17,Premier League|Southampton|2016/17
+Premier League,51,West Bromwich Albion,22,29,21,30,5,11,4,2,38,1.34,2016/17,Premier League|West Bromwich Albion|2016/17
+Premier League,53,Middlesbrough,23,30,27,26,5,7,7,4,38,1.39,2016/17,Premier League|Middlesbrough|2016/17
+Premier League,55,Burnley,20,35,21,34,5,9,6,4,38,1.45,2016/17,Premier League|Burnley|2016/17
+Premier League,56,Stoke City,24,32,23,33,8,9,7,4,38,1.47,2016/17,Premier League|Stoke City|2016/17
+Premier League,63,Crystal Palace,25,38,30,33,10,16,5,2,38,1.66,2016/17,Premier League|Crystal Palace|2016/17
+Premier League,63,Leicester City,25,38,33,30,9,12,7,2,38,1.66,2016/17,Premier League|Leicester City|2016/17
+Premier League,64,West Ham United,31,33,27,37,8,14,8,2,38,1.68,2016/17,Premier League|West Ham United|2016/17
+Premier League,67,AFC Bournemouth,29,38,29,38,7,13,6,4,38,1.76,2016/17,Premier League|AFC Bournemouth|2016/17
+Premier League,68,Watford,29,39,35,33,4,11,5,2,38,1.79,2016/17,Premier League|Watford|2016/17
+Premier League,69,Sunderland,34,35,27,42,9,17,4,2,38,1.82,2016/17,Premier League|Sunderland|2016/17
+Premier League,70,Swansea City,34,36,26,44,5,15,6,2,38,1.84,2016/17,Premier League|Swansea City|2016/17
+Premier League,80,Hull City,35,45,28,52,10,22,2,3,38,2.11,2016/17,Premier League|Hull City|2016/17
+Bundesliga,22,Bayern Munich,9,13,15,7,7,-,9,8,34,0.65,2016/17,Bundesliga|Bayern Munich|2016/17
+Bundesliga,37,TSG 1899 Hoffenheim,14,23,17,20,5,7,9,3,34,1.09,2016/17,Bundesliga|TSG 1899 Hoffenheim|2016/17
+Bundesliga,39,RB Leipzig,16,23,18,21,5,12,7,3,34,1.15,2016/17,Bundesliga|RB Leipzig|2016/17
+Bundesliga,40,FC Schalke 04,15,25,17,23,6,8,5,3,34,1.18,2016/17,Bundesliga|FC Schalke 04|2016/17
+Bundesliga,40,Borussia Dortmund,12,28,17,23,9,4,8,1,34,1.18,2016/17,Bundesliga|Borussia Dortmund|2016/17
+Bundesliga,42,1. FC Koln,17,25,22,20,9,7,7,3,34,1.24,2016/17,Bundesliga|1. FC Koln|2016/17
+Bundesliga,43,Eintracht Frankfurt,18,25,19,24,6,5,7,4,34,1.26,2016/17,Bundesliga|Eintracht Frankfurt|2016/17
+Bundesliga,47,Hertha BSC,19,28,25,22,7,11,8,3,34,1.38,2016/17,Bundesliga|Hertha BSC|2016/17
+Bundesliga,49,"Borussia M'gladbach",18,31,17,32,6,11,6,4,34,1.44,2016/17,"Bundesliga|Borussia M'gladbach|2016/17"
+Bundesliga,51,FC Augsburg,25,26,24,27,6,6,4,4,34,1.5,2016/17,Bundesliga|FC Augsburg|2016/17
+Bundesliga,52,VfL Wolfsburg,25,27,21,31,3,11,6,5,34,1.53,2016/17,Bundesliga|VfL Wolfsburg|2016/17
+Bundesliga,55,1. FSV Mainz 05,26,29,25,30,8,12,4,3,34,1.62,2016/17,Bundesliga|1. FSV Mainz 05|2016/17
+Bundesliga,55,Bayer Leverkusen,28,27,21,34,10,11,4,2,34,1.62,2016/17,Bundesliga|Bayer Leverkusen|2016/17
+Bundesliga,57,FC Ingolstadt 04,30,27,22,35,7,16,1,3,34,1.68,2016/17,Bundesliga|FC Ingolstadt 04|2016/17
+Bundesliga,60,SC Freiburg,24,36,26,34,6,14,5,1,34,1.76,2016/17,Bundesliga|SC Freiburg|2016/17
+Bundesliga,61,Hamburger SV,25,36,24,37,4,12,4,4,34,1.79,2016/17,Bundesliga|Hamburger SV|2016/17
+Bundesliga,63,SV Darmstadt 98,25,38,18,45,6,14,3,-,34,1.85,2016/17,Bundesliga|SV Darmstadt 98|2016/17
+Bundesliga,64,Werder Bremen,24,40,34,30,11,6,4,2,34,1.88,2016/17,Bundesliga|Werder Bremen|2016/17
+La Liga,27,Atletico Madrid,14,13,9,18,2,5,10,10,38,0.71,2016/17,La Liga|Atletico Madrid|2016/17
+La Liga,33,Villarreal,18,15,14,19,3,7,7,9,38,0.87,2016/17,La Liga|Villarreal|2016/17
+La Liga,37,Barcelona,17,20,16,21,2,5,7,6,38,0.97,2016/17,La Liga|Barcelona|2016/17
+La Liga,41,Real Madrid,20,21,16,25,6,7,5,5,38,1.08,2016/17,La Liga|Real Madrid|2016/17
+La Liga,43,Athletic Bilbao,18,25,22,21,9,7,4,6,38,1.13,2016/17,La Liga|Athletic Bilbao|2016/17
+La Liga,43,CD Alaves,21,22,12,31,1,16,7,5,38,1.13,2016/17,La Liga|CD Alaves|2016/17
+La Liga,49,Sevilla,16,33,24,25,7,5,8,5,38,1.29,2016/17,La Liga|Sevilla|2016/17
+La Liga,50,Espanyol,24,26,22,28,1,9,5,6,38,1.32,2016/17,La Liga|Espanyol|2016/17
+La Liga,51,Eibar,21,30,19,32,4,11,7,3,38,1.34,2016/17,La Liga|Eibar|2016/17
+La Liga,53,Real Sociedad,24,29,25,28,2,8,5,5,38,1.39,2016/17,La Liga|Real Sociedad|2016/17
+La Liga,55,CD Leganes,23,32,25,30,6,8,9,2,38,1.45,2016/17,La Liga|CD Leganes|2016/17
+La Liga,55,Malaga,25,30,30,25,9,6,4,4,38,1.45,2016/17,La Liga|Malaga|2016/17
+La Liga,61,Deportivo La Coruna,23,38,25,36,10,13,5,4,38,1.61,2016/17,La Liga|Deportivo La Coruna|2016/17
+La Liga,64,Real Betis,24,40,25,39,9,11,9,1,38,1.68,2016/17,La Liga|Real Betis|2016/17
+La Liga,65,Valencia,32,33,31,34,6,15,4,3,38,1.71,2016/17,La Liga|Valencia|2016/17
+La Liga,69,Celta Vigo,32,37,21,48,7,21,2,5,38,1.82,2016/17,La Liga|Celta Vigo|2016/17
+La Liga,72,Sporting Gijon,38,34,29,43,11,16,1,6,38,1.89,2016/17,La Liga|Sporting Gijon|2016/17
+La Liga,74,Las Palmas,25,49,40,34,15,9,5,-,38,1.95,2016/17,La Liga|Las Palmas|2016/17
+La Liga,82,Granada CF,32,50,34,48,11,14,2,1,38,2.16,2016/17,La Liga|Granada CF|2016/17
+La Liga,94,Osasuna,39,55,42,52,12,15,1,1,38,2.47,2016/17,La Liga|Osasuna|2016/17
+French Ligue 1,27,Paris Saint-Germain,7,20,8,19,2,8,13,8,38,0.71,2016/17,French Ligue 1|Paris Saint-Germain|2016/17
+French Ligue 1,31,AS Monaco,13,18,10,21,1,11,10,7,38,0.82,2016/17,French Ligue 1|AS Monaco|2016/17
+French Ligue 1,36,OGC Nice,16,20,17,19,6,2,6,7,38,0.95,2016/17,French Ligue 1|OGC Nice|2016/17
+French Ligue 1,41,Olympique Marseille,13,28,20,21,9,7,13,5,38,1.08,2016/17,French Ligue 1|Olympique Marseille|2016/17
+French Ligue 1,41,Toulouse,18,23,14,27,5,6,6,6,38,1.08,2016/17,French Ligue 1|Toulouse|2016/17
+French Ligue 1,42,Stade Rennes,15,27,18,24,2,5,9,3,38,1.11,2016/17,French Ligue 1|Stade Rennes|2016/17
+French Ligue 1,42,AS Saint-Etienne,18,24,20,22,6,8,7,7,38,1.11,2016/17,French Ligue 1|AS Saint-Etienne|2016/17
+French Ligue 1,43,Girondins De Bordeaux,19,24,19,24,9,6,7,6,38,1.13,2016/17,French Ligue 1|Girondins De Bordeaux|2016/17
+French Ligue 1,47,Lille OSC,24,23,20,27,6,8,5,6,38,1.24,2016/17,French Ligue 1|Lille OSC|2016/17
+French Ligue 1,48,Olympique Lyonnais,26,22,24,24,5,8,7,6,38,1.26,2016/17,French Ligue 1|Olympique Lyonnais|2016/17
+French Ligue 1,49,Angers SCO,17,32,23,26,7,4,7,2,38,1.29,2016/17,French Ligue 1|Angers SCO|2016/17
+French Ligue 1,52,AS Nancy,23,29,17,35,4,15,8,5,38,1.37,2016/17,French Ligue 1|AS Nancy|2016/17
+French Ligue 1,53,En Avant Guingamp,13,40,19,34,8,12,8,1,38,1.39,2016/17,French Ligue 1|En Avant Guingamp|2016/17
+French Ligue 1,54,FC Nantes,24,30,21,33,4,7,6,4,38,1.42,2016/17,French Ligue 1|FC Nantes|2016/17
+French Ligue 1,57,SC Bastia,17,40,15,42,3,12,7,1,38,1.5,2016/17,French Ligue 1|SC Bastia|2016/17
+French Ligue 1,58,Dijon FCO,21,37,19,39,6,13,8,2,38,1.53,2016/17,French Ligue 1|Dijon FCO|2016/17
+French Ligue 1,65,Caen,37,28,30,35,13,11,5,4,38,1.71,2016/17,French Ligue 1|Caen|2016/17
+French Ligue 1,66,Montpellier HSC,22,44,33,33,8,14,5,2,38,1.74,2016/17,French Ligue 1|Montpellier HSC|2016/17
+French Ligue 1,70,Lorient,29,41,37,33,8,11,3,1,38,1.84,2016/17,French Ligue 1|Lorient|2016/17
+French Ligue 1,72,FC Metz,34,38,26,46,9,16,5,5,38,1.89,2016/17,French Ligue 1|FC Metz|2016/17
+Eredivisie,23,PSV Eindhoven,9,14,10,13,4,6,10,6,34,0.68,2016/17,Eredivisie|PSV Eindhoven|2016/17
+Eredivisie,23,AFC Ajax,12,11,11,12,4,7,8,7,34,0.68,2016/17,Eredivisie|AFC Ajax|2016/17
+Eredivisie,25,Feyenoord,11,14,12,13,7,5,8,9,34,0.74,2016/17,Eredivisie|Feyenoord|2016/17
+Eredivisie,38,FC Utrecht,17,21,13,25,6,13,8,5,34,1.12,2016/17,Eredivisie|FC Utrecht|2016/17
+Eredivisie,40,Vitesse Arnhem,21,19,16,24,9,10,3,4,34,1.18,2016/17,Eredivisie|Vitesse Arnhem|2016/17
+Eredivisie,44,Willem II Tilburg,22,22,19,25,2,8,5,5,34,1.29,2016/17,Eredivisie|Willem II Tilburg|2016/17
+Eredivisie,50,FC Twente,22,28,18,32,5,11,5,3,34,1.47,2016/17,Eredivisie|FC Twente|2016/17
+Eredivisie,51,FC Groningen,24,27,21,30,5,12,4,4,34,1.5,2016/17,Eredivisie|FC Groningen|2016/17
+Eredivisie,51,Roda JC Kerkrade,18,33,20,31,6,14,5,4,34,1.5,2016/17,Eredivisie|Roda JC Kerkrade|2016/17
+Eredivisie,52,AZ Alkmaar,25,27,22,30,5,12,4,2,34,1.53,2016/17,Eredivisie|AZ Alkmaar|2016/17
+Eredivisie,53,SC Heerenveen,16,37,30,23,7,5,6,3,34,1.56,2016/17,Eredivisie|SC Heerenveen|2016/17
+Eredivisie,55,Heracles Almelo,21,34,29,26,6,10,4,1,34,1.62,2016/17,Eredivisie|Heracles Almelo|2016/17
+Eredivisie,59,NEC Nijmegen,26,33,30,29,8,8,3,3,34,1.74,2016/17,Eredivisie|NEC Nijmegen|2016/17
+Eredivisie,59,ADO Den Haag,21,38,31,28,12,10,4,1,34,1.74,2016/17,Eredivisie|ADO Den Haag|2016/17
+Eredivisie,60,SBV Excelsior,25,35,26,34,6,5,3,1,34,1.76,2016/17,Eredivisie|SBV Excelsior|2016/17
+Eredivisie,61,Sparta Rotterdam,24,37,28,33,8,10,4,2,34,1.79,2016/17,Eredivisie|Sparta Rotterdam|2016/17
+Eredivisie,67,PEC Zwolle,28,39,24,43,7,20,3,1,34,1.97,2016/17,Eredivisie|PEC Zwolle|2016/17
+Eredivisie,73,Go Ahead Eagles,35,38,30,43,5,19,3,-,34,2.15,2016/17,Eredivisie|Go Ahead Eagles|2016/17
+Serie A,27,Juventus,9,18,11,16,2,3,10,8,38,0.71,2016/17,Serie A|Juventus|2016/17
+Serie A,38,AS Roma,18,20,15,23,7,9,7,7,38,1,2016/17,Serie A|AS Roma|2016/17
+Serie A,39,Napoli,19,20,10,29,4,11,6,6,38,1.03,2016/17,Serie A|Napoli|2016/17
+Serie A,41,Atalanta,18,23,20,21,3,6,8,8,38,1.08,2016/17,Serie A|Atalanta|2016/17
+Serie A,45,AC Milan,20,25,24,21,7,9,8,4,38,1.18,2016/17,Serie A|AC Milan|2016/17
+Serie A,49,Internazionale,22,27,21,28,6,8,5,4,38,1.29,2016/17,Serie A|Internazionale|2016/17
+Serie A,51,SS Lazio,23,28,17,34,4,8,4,4,38,1.34,2016/17,Serie A|SS Lazio|2016/17
+Serie A,55,Sampdoria,23,32,29,26,9,7,4,3,38,1.45,2016/17,Serie A|Sampdoria|2016/17
+Serie A,56,Udinese,23,33,20,36,7,10,4,3,38,1.47,2016/17,Serie A|Udinese|2016/17
+Serie A,57,Fiorentina,23,34,25,32,8,12,7,5,38,1.5,2016/17,Serie A|Fiorentina|2016/17
+Serie A,58,FC Crotone,25,33,21,37,2,14,3,1,38,1.53,2016/17,Serie A|FC Crotone|2016/17
+Serie A,58,Bologna,25,33,23,35,11,16,5,4,38,1.53,2016/17,Serie A|Bologna|2016/17
+Serie A,61,Empoli,29,32,27,34,9,11,5,5,38,1.61,2016/17,Serie A|Empoli|2016/17
+Serie A,61,Chievo,30,31,26,35,4,15,6,4,38,1.61,2016/17,Serie A|Chievo|2016/17
+Serie A,63,Sassuolo,28,35,31,32,11,9,4,3,38,1.66,2016/17,Serie A|Sassuolo|2016/17
+Serie A,64,Genoa,24,40,27,37,6,11,5,3,38,1.68,2016/17,Serie A|Genoa|2016/17
+Serie A,66,Torino,31,35,23,43,7,18,2,3,38,1.74,2016/17,Serie A|Torino|2016/17
+Serie A,76,Cagliari,34,42,36,40,12,10,4,-,38,2,2016/17,Serie A|Cagliari|2016/17
+Serie A,77,Palermo,30,47,30,47,9,15,4,1,38,2.03,2016/17,Serie A|Palermo|2016/17
+Serie A,81,Pescara,38,43,33,48,16,10,3,1,38,2.13,2016/17,Serie A|Pescara|2016/17
+Scottish Premiership,25,Celtic,8,17,11,14,3,6,11,8,38,0.66,2016/17,Scottish Premiership|Celtic|2016/17
+Scottish Premiership,35,Aberdeen,16,19,14,21,8,9,9,5,38,0.92,2016/17,Scottish Premiership|Aberdeen|2016/17
+Scottish Premiership,44,Rangers,18,26,22,22,7,7,8,4,38,1.16,2016/17,Scottish Premiership|Rangers|2016/17
+Scottish Premiership,46,St Johnstone,25,21,20,26,4,10,8,7,38,1.21,2016/17,Scottish Premiership|St Johnstone|2016/17
+Scottish Premiership,52,Heart of Midlothian,20,32,18,34,4,9,7,3,38,1.37,2016/17,Scottish Premiership|Heart of Midlothian|2016/17
+Scottish Premiership,54,Partick Thistle,32,22,26,28,5,16,6,3,38,1.42,2016/17,Scottish Premiership|Partick Thistle|2016/17
+Scottish Premiership,56,Hamilton Academical,20,36,22,34,7,9,6,3,38,1.47,2016/17,Scottish Premiership|Hamilton Academical|2016/17
+Scottish Premiership,56,Kilmarnock,23,33,25,31,5,7,5,5,38,1.47,2016/17,Scottish Premiership|Kilmarnock|2016/17
+Scottish Premiership,58,Ross County,31,27,22,36,7,8,2,5,38,1.53,2016/17,Scottish Premiership|Ross County|2016/17
+Scottish Premiership,62,Dundee,30,32,33,29,11,9,3,3,38,1.63,2016/17,Scottish Premiership|Dundee|2016/17
+Scottish Premiership,69,Motherwell,37,32,26,43,5,14,4,1,38,1.82,2016/17,Scottish Premiership|Motherwell|2016/17
+Scottish Premiership,71,Inverness Cali,33,38,31,40,9,10,1,2,38,1.87,2016/17,Scottish Premiership|Inverness Cali|2016/17

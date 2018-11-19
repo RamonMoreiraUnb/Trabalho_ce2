@@ -1,0 +1,16 @@
+base
+pacman
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+ggrepel
+reshape2
+bindrcpp
+slidify
+slidifyLibraries

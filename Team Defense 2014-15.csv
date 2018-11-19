@@ -1,0 +1,129 @@
+﻿League,Goals Against,Team,GA Home,GA Away,GA First Half,GA Second Half,GA First 15 mins,GA Last 10 mins,GA Home Matches Scored In,GA Away Matches Scored In,GA Pld,GA Per Match,Season,KEY
+Premier League,32,Chelsea,9,23,17,15,4,5,11,6,38,0.84,2014/15,Premier League|Chelsea|2014/15
+Premier League,33,Southampton,13,20,17,16,5,7,11,4,38,0.87,2014/15,Premier League|Southampton|2014/15
+Premier League,36,Arsenal,14,22,13,23,1,7,8,5,38,0.95,2014/15,Premier League|Arsenal|2014/15
+Premier League,37,Manchester United,15,22,15,22,5,7,6,5,38,0.97,2014/15,Premier League|Manchester United|2014/15
+Premier League,38,Manchester City,14,24,16,22,4,4,9,5,38,1,2014/15,Premier League|Manchester City|2014/15
+Premier League,45,Stoke City,22,23,24,21,8,3,5,4,38,1.18,2014/15,Premier League|Stoke City|2014/15
+Premier League,47,West Ham United,18,29,21,26,3,12,7,2,38,1.24,2014/15,Premier League|West Ham United|2014/15
+Premier League,48,Liverpool,20,28,24,24,7,8,6,8,38,1.26,2014/15,Premier League|Liverpool|2014/15
+Premier League,49,Swansea City,22,27,22,27,4,7,6,7,38,1.29,2014/15,Premier League|Swansea City|2014/15
+Premier League,50,Everton,21,29,19,31,3,10,8,2,38,1.32,2014/15,Premier League|Everton|2014/15
+Premier League,51,West Bromwich Albion,26,25,33,18,13,7,8,8,38,1.34,2014/15,Premier League|West Bromwich Albion|2014/15
+Premier League,51,Crystal Palace,27,24,23,28,10,11,3,4,38,1.34,2014/15,Premier League|Crystal Palace|2014/15
+Premier League,51,Hull City,24,27,22,29,10,8,6,4,38,1.34,2014/15,Premier League|Hull City|2014/15
+Premier League,53,Burnley,21,32,31,22,5,5,7,3,38,1.39,2014/15,Premier League|Burnley|2014/15
+Premier League,53,Tottenham Hotspur,24,29,27,26,9,7,5,4,38,1.39,2014/15,Premier League|Tottenham Hotspur|2014/15
+Premier League,53,Sunderland,27,26,25,28,6,7,6,7,38,1.39,2014/15,Premier League|Sunderland|2014/15
+Premier League,55,Leicester City,22,33,27,28,5,7,6,4,38,1.45,2014/15,Premier League|Leicester City|2014/15
+Premier League,57,Aston Villa,25,32,24,33,10,13,4,6,38,1.5,2014/15,Premier League|Aston Villa|2014/15
+Premier League,63,Newcastle United,27,36,28,35,10,12,5,3,38,1.66,2014/15,Premier League|Newcastle United|2014/15
+Premier League,73,Queens Park Rangers,24,49,34,39,8,14,5,1,38,1.92,2014/15,Premier League|Queens Park Rangers|2014/15
+Bundesliga,18,Bayern Munich,7,11,8,10,1,2,11,11,34,0.53,2014/15,Bundesliga|Bayern Munich|2014/15
+Bundesliga,26,"Borussia M'gladbach",14,12,9,17,3,2,8,7,34,0.76,2014/15,"Bundesliga|Borussia M'gladbach|2014/15"
+Bundesliga,36,Bayer Leverkusen,15,21,16,20,4,8,10,7,34,1.06,2014/15,Bundesliga|Bayer Leverkusen|2014/15
+Bundesliga,38,VfL Wolfsburg,13,25,19,19,7,4,6,2,34,1.12,2014/15,Bundesliga|VfL Wolfsburg|2014/15
+Bundesliga,40,FC Schalke 04,14,26,17,23,3,4,7,3,34,1.18,2014/15,Bundesliga|FC Schalke 04|2014/15
+Bundesliga,40,1. FC Koln,17,23,16,24,7,9,6,7,34,1.18,2014/15,Bundesliga|1. FC Koln|2014/15
+Bundesliga,42,Borussia Dortmund,15,27,18,24,7,10,7,3,34,1.24,2014/15,Bundesliga|Borussia Dortmund|2014/15
+Bundesliga,43,FC Augsburg,21,22,25,18,8,4,6,4,34,1.26,2014/15,Bundesliga|FC Augsburg|2014/15
+Bundesliga,47,1. FSV Mainz 05,19,28,18,29,4,8,6,4,34,1.38,2014/15,Bundesliga|1. FSV Mainz 05|2014/15
+Bundesliga,47,SC Freiburg,22,25,24,23,7,11,6,3,34,1.38,2014/15,Bundesliga|SC Freiburg|2014/15
+Bundesliga,50,Hamburger SV,18,32,20,30,5,10,5,5,34,1.47,2014/15,Bundesliga|Hamburger SV|2014/15
+Bundesliga,52,Hertha BSC,22,30,20,32,7,11,7,3,34,1.53,2014/15,Bundesliga|Hertha BSC|2014/15
+Bundesliga,55,TSG 1899 Hoffenheim,26,29,32,23,6,9,4,4,34,1.62,2014/15,Bundesliga|TSG 1899 Hoffenheim|2014/15
+Bundesliga,55,Hannover 96,25,30,22,33,5,7,4,3,34,1.62,2014/15,Bundesliga|Hannover 96|2014/15
+Bundesliga,60,VfB Stuttgart,28,32,28,32,10,10,4,2,34,1.76,2014/15,Bundesliga|VfB Stuttgart|2014/15
+Bundesliga,62,Eintracht Frankfurt,26,36,23,39,6,14,5,1,34,1.82,2014/15,Bundesliga|Eintracht Frankfurt|2014/15
+Bundesliga,64,Werder Bremen,24,40,30,34,8,10,6,1,34,1.88,2014/15,Bundesliga|Werder Bremen|2014/15
+Bundesliga,65,SC Paderborn 07,31,34,26,39,9,16,3,3,34,1.91,2014/15,Bundesliga|SC Paderborn 07|2014/15
+La Liga,21,Barcelona,11,10,8,13,3,2,10,13,38,0.55,2014/15,La Liga|Barcelona|2014/15
+La Liga,29,Atletico Madrid,11,18,13,16,5,5,10,9,38,0.76,2014/15,La Liga|Atletico Madrid|2014/15
+La Liga,32,Valencia,10,22,16,16,5,10,10,3,38,0.84,2014/15,La Liga|Valencia|2014/15
+La Liga,37,Villarreal,17,20,14,23,2,5,9,7,38,0.97,2014/15,La Liga|Villarreal|2014/15
+La Liga,38,Real Madrid,15,23,22,16,8,4,8,7,38,1,2014/15,La Liga|Real Madrid|2014/15
+La Liga,41,Athletic Bilbao,20,21,17,24,4,9,7,7,38,1.08,2014/15,La Liga|Athletic Bilbao|2014/15
+La Liga,44,Celta Vigo,22,22,25,19,5,7,5,5,38,1.16,2014/15,La Liga|Celta Vigo|2014/15
+La Liga,45,Sevilla,13,32,20,25,4,10,10,4,38,1.18,2014/15,La Liga|Sevilla|2014/15
+La Liga,48,Malaga,20,28,21,27,2,11,7,3,38,1.26,2014/15,La Liga|Malaga|2014/15
+La Liga,51,Real Sociedad,21,30,20,31,10,11,6,2,38,1.34,2014/15,La Liga|Real Sociedad|2014/15
+La Liga,51,Espanyol,19,32,23,28,3,7,8,5,38,1.34,2014/15,La Liga|Espanyol|2014/15
+La Liga,55,Eibar,29,26,27,28,10,5,3,5,38,1.45,2014/15,La Liga|Eibar|2014/15
+La Liga,60,Deportivo La Coruna,30,30,26,34,8,8,7,5,38,1.58,2014/15,La Liga|Deportivo La Coruna|2014/15
+La Liga,62,Elche CF,31,31,23,39,5,16,5,4,38,1.63,2014/15,La Liga|Elche CF|2014/15
+La Liga,64,Granada CF,17,47,26,38,1,21,8,3,38,1.68,2014/15,La Liga|Granada CF|2014/15
+La Liga,64,UD Almeria,28,36,32,32,7,11,5,3,38,1.68,2014/15,La Liga|UD Almeria|2014/15
+La Liga,64,Getafe,22,42,29,35,7,8,4,1,38,1.68,2014/15,La Liga|Getafe|2014/15
+La Liga,67,Levante,30,37,32,35,6,12,3,4,38,1.76,2014/15,La Liga|Levante|2014/15
+La Liga,68,Cordoba,33,35,28,40,6,17,4,3,38,1.79,2014/15,La Liga|Cordoba|2014/15
+La Liga,68,Rayo Vallecano,26,42,35,33,13,10,6,4,38,1.79,2014/15,La Liga|Rayo Vallecano|2014/15
+French Ligue 1,26,AS Monaco,10,16,8,18,3,4,11,9,38,0.68,2014/15,French Ligue 1|AS Monaco|2014/15
+French Ligue 1,31,AS Saint-Etienne,11,20,13,18,1,5,11,6,38,0.82,2014/15,French Ligue 1|AS Saint-Etienne|2014/15
+French Ligue 1,33,Olympique Lyonnais,11,22,18,15,5,6,10,6,38,0.87,2014/15,French Ligue 1|Olympique Lyonnais|2014/15
+French Ligue 1,36,Paris Saint-Germain,14,22,17,19,5,7,8,5,38,0.95,2014/15,French Ligue 1|Paris Saint-Germain|2014/15
+French Ligue 1,39,Montpellier HSC,21,18,23,16,2,11,7,8,38,1.03,2014/15,French Ligue 1|Montpellier HSC|2014/15
+French Ligue 1,40,FC Nantes,17,23,21,19,8,4,6,5,38,1.05,2014/15,French Ligue 1|FC Nantes|2014/15
+French Ligue 1,42,Olympique Marseille,22,20,13,29,5,9,7,5,38,1.11,2014/15,French Ligue 1|Olympique Marseille|2014/15
+French Ligue 1,42,Lille OSC,12,30,19,23,4,7,11,3,38,1.11,2014/15,French Ligue 1|Lille OSC|2014/15
+French Ligue 1,42,Stade Rennes,22,20,12,30,2,11,8,7,38,1.11,2014/15,French Ligue 1|Stade Rennes|2014/15
+French Ligue 1,44,Girondins De Bordeaux,23,21,19,25,5,12,3,6,38,1.16,2014/15,French Ligue 1|Girondins De Bordeaux|2014/15
+French Ligue 1,46,SC Bastia,18,28,22,24,8,8,9,3,38,1.21,2014/15,French Ligue 1|SC Bastia|2014/15
+French Ligue 1,50,Lorient,17,33,20,30,5,5,7,3,38,1.32,2014/15,French Ligue 1|Lorient|2014/15
+French Ligue 1,53,OGC Nice,24,29,23,30,7,9,5,5,38,1.39,2014/15,French Ligue 1|OGC Nice|2014/15
+French Ligue 1,55,Caen,25,30,26,29,9,9,4,3,38,1.45,2014/15,French Ligue 1|Caen|2014/15
+French Ligue 1,55,En Avant Guingamp,25,30,21,34,5,13,5,4,38,1.45,2014/15,French Ligue 1|En Avant Guingamp|2014/15
+French Ligue 1,60,RC Lens,23,37,27,33,6,12,7,3,38,1.58,2014/15,French Ligue 1|RC Lens|2014/15
+French Ligue 1,61,FC Metz,32,29,28,33,5,13,4,5,38,1.61,2014/15,French Ligue 1|FC Metz|2014/15
+French Ligue 1,62,Evian Thonon Gaillard,25,37,29,33,8,10,7,2,38,1.63,2014/15,French Ligue 1|Evian Thonon Gaillard|2014/15
+French Ligue 1,64,Toulouse,29,35,32,32,13,7,4,3,38,1.68,2014/15,French Ligue 1|Toulouse|2014/15
+French Ligue 1,66,Stade Reims,29,37,27,39,12,11,7,2,38,1.74,2014/15,French Ligue 1|Stade Reims|2014/15
+Eredivisie,29,AFC Ajax,11,18,7,22,2,9,9,3,34,0.85,2014/15,Eredivisie|AFC Ajax|2014/15
+Eredivisie,31,PSV Eindhoven,12,19,15,16,2,6,9,4,34,0.91,2014/15,Eredivisie|PSV Eindhoven|2014/15
+Eredivisie,39,Feyenoord,20,19,16,23,4,6,4,8,34,1.15,2014/15,Eredivisie|Feyenoord|2014/15
+Eredivisie,42,Vitesse Arnhem,17,25,17,25,7,11,6,3,34,1.24,2014/15,Eredivisie|Vitesse Arnhem|2014/15
+Eredivisie,43,PEC Zwolle,15,28,19,24,7,9,5,5,34,1.26,2014/15,Eredivisie|PEC Zwolle|2014/15
+Eredivisie,46,SC Heerenveen,21,25,17,29,9,8,5,4,34,1.35,2014/15,Eredivisie|SC Heerenveen|2014/15
+Eredivisie,50,Willem II Tilburg,22,28,22,28,7,14,5,2,34,1.47,2014/15,Eredivisie|Willem II Tilburg|2014/15
+Eredivisie,51,FC Twente,23,28,29,22,6,7,5,1,34,1.5,2014/15,Eredivisie|FC Twente|2014/15
+Eredivisie,53,FC Groningen,18,35,18,35,5,12,5,-,34,1.56,2014/15,Eredivisie|FC Groningen|2014/15
+Eredivisie,53,ADO Den Haag,23,30,24,29,7,7,5,3,34,1.56,2014/15,Eredivisie|ADO Den Haag|2014/15
+Eredivisie,56,SC Cambuur,22,34,25,31,5,12,3,2,34,1.65,2014/15,Eredivisie|SC Cambuur|2014/15
+Eredivisie,56,AZ Alkmaar,27,29,30,26,13,11,5,6,34,1.65,2014/15,Eredivisie|AZ Alkmaar|2014/15
+Eredivisie,59,Go Ahead Eagles,29,30,23,36,5,13,5,2,34,1.74,2014/15,Eredivisie|Go Ahead Eagles|2014/15
+Eredivisie,62,FC Utrecht,31,31,21,41,6,18,4,2,34,1.82,2014/15,Eredivisie|FC Utrecht|2014/15
+Eredivisie,63,SBV Excelsior,37,26,25,38,5,12,2,2,34,1.85,2014/15,Eredivisie|SBV Excelsior|2014/15
+Eredivisie,64,Heracles Almelo,29,35,33,31,10,13,3,1,34,1.88,2014/15,Eredivisie|Heracles Almelo|2014/15
+Eredivisie,68,NAC Breda,32,36,29,39,10,13,2,5,34,2,2014/15,Eredivisie|NAC Breda|2014/15
+Eredivisie,76,FC Dordrecht,34,42,32,44,11,16,4,1,34,2.24,2014/15,Eredivisie|FC Dordrecht|2014/15
+Serie A,24,Juventus,11,13,10,14,2,4,10,9,38,0.63,2014/15,Serie A|Juventus|2014/15
+Serie A,30,AS Roma,14,16,17,13,5,6,10,7,38,0.79,2014/15,Serie A|AS Roma|2014/15
+Serie A,38,SS Lazio,18,20,12,26,2,5,7,7,38,1,2014/15,Serie A|SS Lazio|2014/15
+Serie A,40,Chievo,18,22,15,25,3,6,7,7,38,1.05,2014/15,Serie A|Chievo|2014/15
+Serie A,42,Sampdoria,15,27,19,23,5,7,7,4,38,1.11,2014/15,Serie A|Sampdoria|2014/15
+Serie A,44,Torino,14,30,21,23,7,8,7,4,38,1.16,2014/15,Serie A|Torino|2014/15
+Serie A,46,Fiorentina,17,29,17,29,6,9,8,3,38,1.21,2014/15,Serie A|Fiorentina|2014/15
+Serie A,47,Genoa,21,26,24,23,7,3,5,3,38,1.24,2014/15,Serie A|Genoa|2014/15
+Serie A,48,Internazionale,23,25,23,25,8,9,6,5,38,1.26,2014/15,Serie A|Internazionale|2014/15
+Serie A,50,AC Milan,19,31,19,31,4,8,5,3,38,1.32,2014/15,Serie A|AC Milan|2014/15
+Serie A,52,Empoli,22,30,22,30,3,4,7,3,38,1.37,2014/15,Serie A|Empoli|2014/15
+Serie A,54,Napoli,28,26,26,28,10,9,5,4,38,1.42,2014/15,Serie A|Napoli|2014/15
+Serie A,55,Palermo,25,30,27,28,8,9,3,4,38,1.45,2014/15,Serie A|Palermo|2014/15
+Serie A,56,Udinese,29,27,26,30,7,8,4,3,38,1.47,2014/15,Serie A|Udinese|2014/15
+Serie A,57,Atalanta,33,24,26,31,4,11,3,5,38,1.5,2014/15,Serie A|Atalanta|2014/15
+Serie A,57,Sassuolo,22,35,30,27,8,6,4,4,38,1.5,2014/15,Serie A|Sassuolo|2014/15
+Serie A,65,Hellas Verona,30,35,30,35,8,10,3,4,38,1.71,2014/15,Serie A|Hellas Verona|2014/15
+Serie A,68,Cagliari,36,32,36,32,14,10,1,3,38,1.79,2014/15,Serie A|Cagliari|2014/15
+Serie A,73,AC Cesena,31,42,33,40,6,12,3,1,38,1.92,2014/15,Serie A|AC Cesena|2014/15
+Serie A,75,Parma,27,48,39,36,8,10,7,1,38,1.97,2014/15,Serie A|Parma|2014/15
+Scottish Premiership,17,Celtic,8,9,6,11,4,1,11,11,38,0.45,2014/15,Scottish Premiership|Celtic|2014/15
+Scottish Premiership,33,Aberdeen,15,18,14,19,4,6,11,8,38,0.87,2014/15,Scottish Premiership|Aberdeen|2014/15
+Scottish Premiership,34,St Johnstone,17,17,17,17,6,4,7,8,38,0.89,2014/15,Scottish Premiership|St Johnstone|2014/15
+Scottish Premiership,42,Inverness Cali,19,23,17,25,5,5,7,5,38,1.11,2014/15,Scottish Premiership|Inverness Cali|2014/15
+Scottish Premiership,44,Partick Thistle,22,22,19,25,8,8,7,5,38,1.16,2014/15,Scottish Premiership|Partick Thistle|2014/15
+Scottish Premiership,53,Hamilton Academical,20,33,15,38,4,9,9,5,38,1.39,2014/15,Scottish Premiership|Hamilton Academical|2014/15
+Scottish Premiership,56,Dundee United,20,36,28,28,7,10,7,2,38,1.47,2014/15,Scottish Premiership|Dundee United|2014/15
+Scottish Premiership,57,Dundee,27,30,26,31,8,8,3,4,38,1.5,2014/15,Scottish Premiership|Dundee|2014/15
+Scottish Premiership,59,Kilmarnock,27,32,27,32,6,11,5,3,38,1.55,2014/15,Scottish Premiership|Kilmarnock|2014/15
+Scottish Premiership,63,Motherwell,21,42,27,36,9,13,6,1,38,1.66,2014/15,Scottish Premiership|Motherwell|2014/15
+Scottish Premiership,63,Ross County,31,32,26,37,5,7,3,3,38,1.66,2014/15,Scottish Premiership|Ross County|2014/15
+Scottish Premiership,66,St Mirren,30,36,23,43,6,11,1,1,38,1.74,2014/15,Scottish Premiership|St Mirren|2014/15

@@ -1,0 +1,129 @@
+﻿League,Goals Against,Team,GA Home,GA Away,GA First Half,GA Second Half,GA First 15 mins,GA Last 10 mins,GA Home Matches Scored In,GA Away Matches Scored In,GA Pld,GA Per Match,Season,KEY
+Premier League,35,Manchester United,9,26,14,21,6,9,12,6,38,0.92,2015/16,Premier League|Manchester United|2015/16
+Premier League,35,Tottenham Hotspur,15,20,16,19,2,8,8,5,38,0.92,2015/16,Premier League|Tottenham Hotspur|2015/16
+Premier League,36,Leicester City,18,18,13,23,3,10,9,6,38,0.95,2015/16,Premier League|Leicester City|2015/16
+Premier League,36,Arsenal,11,25,20,16,3,6,10,8,38,0.95,2015/16,Premier League|Arsenal|2015/16
+Premier League,41,Southampton,22,19,19,22,3,6,6,6,38,1.08,2015/16,Premier League|Southampton|2015/16
+Premier League,41,Manchester City,21,20,23,18,8,4,6,10,38,1.08,2015/16,Premier League|Manchester City|2015/16
+Premier League,48,West Bromwich Albion,26,22,24,24,5,8,5,6,38,1.26,2015/16,Premier League|West Bromwich Albion|2015/16
+Premier League,50,Liverpool,22,28,19,31,7,12,6,5,38,1.32,2015/16,Premier League|Liverpool|2015/16
+Premier League,50,Watford,19,31,20,30,4,8,8,3,38,1.32,2015/16,Premier League|Watford|2015/16
+Premier League,51,Crystal Palace,23,28,21,30,4,12,6,2,38,1.34,2015/16,Premier League|Crystal Palace|2015/16
+Premier League,51,West Ham United,26,25,27,24,10,7,6,5,38,1.34,2015/16,Premier League|West Ham United|2015/16
+Premier League,52,Swansea City,20,32,19,33,9,6,8,1,38,1.37,2015/16,Premier League|Swansea City|2015/16
+Premier League,53,Chelsea,30,23,20,33,-,12,3,6,38,1.39,2015/16,Premier League|Chelsea|2015/16
+Premier League,55,Stoke City,24,31,23,32,5,10,5,5,38,1.45,2015/16,Premier League|Stoke City|2015/16
+Premier League,55,Everton,30,25,27,28,5,10,3,7,38,1.45,2015/16,Premier League|Everton|2015/16
+Premier League,62,Sunderland,20,42,30,32,10,6,5,2,38,1.63,2015/16,Premier League|Sunderland|2015/16
+Premier League,65,Newcastle United,24,41,29,36,10,11,5,3,38,1.71,2015/16,Premier League|Newcastle United|2015/16
+Premier League,67,Norwich City,30,37,24,43,7,13,4,1,38,1.76,2015/16,Premier League|Norwich City|2015/16
+Premier League,67,AFC Bournemouth,34,33,38,29,9,11,4,3,38,1.76,2015/16,Premier League|AFC Bournemouth|2015/16
+Premier League,76,Aston Villa,35,41,31,45,7,14,4,2,38,2,2015/16,Premier League|Aston Villa|2015/16
+Bundesliga,17,Bayern Munich,8,9,8,9,1,2,10,10,34,0.5,2015/16,Bundesliga|Bayern Munich|2015/16
+Bundesliga,34,Borussia Dortmund,14,20,16,18,2,5,7,6,34,1,2015/16,Bundesliga|Borussia Dortmund|2015/16
+Bundesliga,40,Bayer Leverkusen,17,23,21,19,8,1,7,6,34,1.18,2015/16,Bundesliga|Bayer Leverkusen|2015/16
+Bundesliga,42,Hertha BSC,15,27,16,26,2,9,8,5,34,1.24,2015/16,Bundesliga|Hertha BSC|2015/16
+Bundesliga,42,1. FC Koln,18,24,25,17,9,5,4,4,34,1.24,2015/16,Bundesliga|1. FC Koln|2015/16
+Bundesliga,42,FC Ingolstadt 04,18,24,16,26,9,10,6,4,34,1.24,2015/16,Bundesliga|FC Ingolstadt 04|2015/16
+Bundesliga,42,1. FSV Mainz 05,18,24,17,25,4,5,7,2,34,1.24,2015/16,Bundesliga|1. FSV Mainz 05|2015/16
+Bundesliga,46,Hamburger SV,23,23,16,30,2,6,3,6,34,1.35,2015/16,Bundesliga|Hamburger SV|2015/16
+Bundesliga,49,FC Schalke 04,24,25,19,30,3,9,3,5,34,1.44,2015/16,Bundesliga|FC Schalke 04|2015/16
+Bundesliga,49,VfL Wolfsburg,17,32,18,31,4,6,4,5,34,1.44,2015/16,Bundesliga|VfL Wolfsburg|2015/16
+Bundesliga,50,"Borussia M'gladbach",18,32,22,28,5,5,6,1,34,1.47,2015/16,"Bundesliga|Borussia M'gladbach|2015/16"
+Bundesliga,52,FC Augsburg,27,25,23,29,6,10,5,6,34,1.53,2015/16,Bundesliga|FC Augsburg|2015/16
+Bundesliga,52,Eintracht Frankfurt,24,28,22,30,4,10,5,3,34,1.53,2015/16,Bundesliga|Eintracht Frankfurt|2015/16
+Bundesliga,53,SV Darmstadt 98,29,24,18,35,5,9,3,5,34,1.56,2015/16,Bundesliga|SV Darmstadt 98|2015/16
+Bundesliga,54,TSG 1899 Hoffenheim,25,29,25,29,9,13,3,3,34,1.59,2015/16,Bundesliga|TSG 1899 Hoffenheim|2015/16
+Bundesliga,62,Hannover 96,30,32,33,29,7,7,4,1,34,1.82,2015/16,Bundesliga|Hannover 96|2015/16
+Bundesliga,65,Werder Bremen,30,35,30,35,10,14,1,1,34,1.91,2015/16,Bundesliga|Werder Bremen|2015/16
+Bundesliga,75,VfB Stuttgart,32,43,36,39,12,14,3,1,34,2.21,2015/16,Bundesliga|VfB Stuttgart|2015/16
+La Liga,18,Atletico Madrid,7,11,8,10,2,3,13,11,38,0.47,2015/16,La Liga|Atletico Madrid|2015/16
+La Liga,29,Barcelona,14,15,13,16,5,6,9,9,38,0.76,2015/16,La Liga|Barcelona|2015/16
+La Liga,34,Real Madrid,16,18,13,21,8,7,9,5,38,0.89,2015/16,La Liga|Real Madrid|2015/16
+La Liga,35,Villarreal,12,23,16,19,4,7,10,7,38,0.92,2015/16,La Liga|Villarreal|2015/16
+La Liga,35,Malaga,15,20,19,16,6,6,7,5,38,0.92,2015/16,La Liga|Malaga|2015/16
+La Liga,45,Athletic Bilbao,17,28,17,28,6,7,5,8,38,1.18,2015/16,La Liga|Athletic Bilbao|2015/16
+La Liga,48,Real Sociedad,20,28,23,25,8,9,6,7,38,1.26,2015/16,La Liga|Real Sociedad|2015/16
+La Liga,48,Valencia,23,25,18,30,4,9,5,2,38,1.26,2015/16,La Liga|Valencia|2015/16
+La Liga,50,Sevilla,21,29,22,28,5,9,8,3,38,1.32,2015/16,La Liga|Sevilla|2015/16
+La Liga,52,Real Betis,23,29,21,31,7,11,6,6,38,1.37,2015/16,La Liga|Real Betis|2015/16
+La Liga,53,Las Palmas,17,36,27,26,12,9,8,3,38,1.39,2015/16,La Liga|Las Palmas|2015/16
+La Liga,59,Celta Vigo,25,34,23,36,6,12,6,4,38,1.55,2015/16,La Liga|Celta Vigo|2015/16
+La Liga,61,Sporting Gijon,27,34,30,31,7,8,4,3,38,1.61,2015/16,La Liga|Sporting Gijon|2015/16
+La Liga,61,Deportivo La Coruna,34,27,29,32,8,9,4,3,38,1.61,2015/16,La Liga|Deportivo La Coruna|2015/16
+La Liga,61,Eibar,22,39,31,30,10,11,4,3,38,1.61,2015/16,La Liga|Eibar|2015/16
+La Liga,67,Getafe,20,47,39,28,12,10,6,2,38,1.76,2015/16,La Liga|Getafe|2015/16
+La Liga,69,Granada CF,31,38,31,38,9,17,3,1,38,1.82,2015/16,La Liga|Granada CF|2015/16
+La Liga,70,Levante,26,44,28,42,10,23,4,2,38,1.84,2015/16,La Liga|Levante|2015/16
+La Liga,73,Rayo Vallecano,29,44,31,42,10,12,5,1,38,1.92,2015/16,La Liga|Rayo Vallecano|2015/16
+La Liga,74,Espanyol,28,46,36,38,13,13,7,-,38,1.95,2015/16,La Liga|Espanyol|2015/16
+French Ligue 1,19,Paris Saint-Germain,12,7,10,9,2,3,9,13,38,0.5,2015/16,French Ligue 1|Paris Saint-Germain|2015/16
+French Ligue 1,27,Lille OSC,11,16,8,19,2,8,11,7,38,0.71,2015/16,French Ligue 1|Lille OSC|2015/16
+French Ligue 1,37,AS Saint-Etienne,15,22,14,23,3,12,10,6,38,0.97,2015/16,French Ligue 1|AS Saint-Etienne|2015/16
+French Ligue 1,38,Angers SCO,15,23,15,23,4,6,11,6,38,1,2015/16,French Ligue 1|Angers SCO|2015/16
+French Ligue 1,41,OGC Nice,16,25,22,19,7,5,8,4,38,1.08,2015/16,French Ligue 1|OGC Nice|2015/16
+French Ligue 1,42,SC Bastia,14,28,14,28,1,11,11,4,38,1.11,2015/16,French Ligue 1|SC Bastia|2015/16
+French Ligue 1,42,Olympique Marseille,24,18,19,23,6,3,4,5,38,1.11,2015/16,French Ligue 1|Olympique Marseille|2015/16
+French Ligue 1,43,Olympique Lyonnais,16,27,19,24,6,5,8,6,38,1.13,2015/16,French Ligue 1|Olympique Lyonnais|2015/16
+French Ligue 1,44,FC Nantes,20,24,20,24,7,13,8,7,38,1.16,2015/16,French Ligue 1|FC Nantes|2015/16
+French Ligue 1,47,Montpellier HSC,23,24,18,29,5,9,4,5,38,1.24,2015/16,French Ligue 1|Montpellier HSC|2015/16
+French Ligue 1,50,AS Monaco,19,31,22,28,7,12,8,6,38,1.32,2015/16,French Ligue 1|AS Monaco|2015/16
+French Ligue 1,52,Caen,23,29,22,30,4,9,8,2,38,1.37,2015/16,French Ligue 1|Caen|2015/16
+French Ligue 1,54,Stade Rennes,25,29,20,34,8,3,3,3,38,1.42,2015/16,French Ligue 1|Stade Rennes|2015/16
+French Ligue 1,55,Toulouse,21,34,20,35,5,15,6,2,38,1.45,2015/16,French Ligue 1|Toulouse|2015/16
+French Ligue 1,56,En Avant Guingamp,28,28,21,35,5,10,5,8,38,1.47,2015/16,French Ligue 1|En Avant Guingamp|2015/16
+French Ligue 1,57,Girondins De Bordeaux,20,37,19,38,6,14,8,3,38,1.5,2015/16,French Ligue 1|Girondins De Bordeaux|2015/16
+French Ligue 1,57,Stade Reims,23,34,24,33,10,8,2,2,38,1.5,2015/16,French Ligue 1|Stade Reims|2015/16
+French Ligue 1,58,Lorient,21,37,29,29,8,10,5,3,38,1.53,2015/16,French Ligue 1|Lorient|2015/16
+French Ligue 1,58,Gazelec Ajaccio,32,26,32,26,12,7,3,3,38,1.53,2015/16,French Ligue 1|Gazelec Ajaccio|2015/16
+French Ligue 1,83,Troyes AC,36,47,36,47,12,14,3,-,38,2.18,2015/16,French Ligue 1|Troyes AC|2015/16
+Eredivisie,21,AFC Ajax,12,9,8,13,2,5,9,10,34,0.62,2015/16,Eredivisie|AFC Ajax|2015/16
+Eredivisie,32,PSV Eindhoven,16,16,12,20,4,6,6,7,34,0.94,2015/16,Eredivisie|PSV Eindhoven|2015/16
+Eredivisie,38,Vitesse Arnhem,18,20,11,27,5,7,6,4,34,1.12,2015/16,Eredivisie|Vitesse Arnhem|2015/16
+Eredivisie,40,Feyenoord,14,26,16,24,4,8,7,4,34,1.18,2015/16,Eredivisie|Feyenoord|2015/16
+Eredivisie,42,NEC Nijmegen,17,25,20,22,7,4,7,3,34,1.24,2015/16,Eredivisie|NEC Nijmegen|2015/16
+Eredivisie,48,FC Groningen,19,29,17,31,5,9,6,2,34,1.41,2015/16,Eredivisie|FC Groningen|2015/16
+Eredivisie,48,FC Utrecht,24,24,25,23,7,7,3,3,34,1.41,2015/16,Eredivisie|FC Utrecht|2015/16
+Eredivisie,49,Heracles Almelo,23,26,19,30,5,13,5,5,34,1.44,2015/16,Eredivisie|Heracles Almelo|2015/16
+Eredivisie,49,ADO Den Haag,22,27,20,29,4,9,2,4,34,1.44,2015/16,Eredivisie|ADO Den Haag|2015/16
+Eredivisie,52,Willem II Tilburg,25,27,20,32,4,7,3,3,34,1.53,2015/16,Eredivisie|Willem II Tilburg|2015/16
+Eredivisie,53,AZ Alkmaar,24,29,27,26,12,8,3,4,34,1.56,2015/16,Eredivisie|AZ Alkmaar|2015/16
+Eredivisie,54,PEC Zwolle,27,27,23,31,6,9,2,4,34,1.59,2015/16,Eredivisie|PEC Zwolle|2015/16
+Eredivisie,55,Roda JC Kerkrade,25,30,28,27,7,7,4,4,34,1.62,2015/16,Eredivisie|Roda JC Kerkrade|2015/16
+Eredivisie,59,SBV Excelsior,31,28,25,34,10,10,4,4,34,1.74,2015/16,Eredivisie|SBV Excelsior|2015/16
+Eredivisie,61,SC Heerenveen,29,32,28,33,6,10,3,2,34,1.79,2015/16,Eredivisie|SC Heerenveen|2015/16
+Eredivisie,64,FC Twente,25,39,28,36,9,16,5,2,34,1.88,2015/16,Eredivisie|FC Twente|2015/16
+Eredivisie,65,De Graafschap,29,36,33,32,5,9,2,2,34,1.91,2015/16,Eredivisie|De Graafschap|2015/16
+Eredivisie,79,SC Cambuur,32,47,35,44,12,17,2,-,34,2.32,2015/16,Eredivisie|SC Cambuur|2015/16
+Serie A,20,Juventus,6,14,9,11,4,3,13,9,38,0.53,2015/16,Serie A|Juventus|2015/16
+Serie A,32,Napoli,12,20,17,15,8,5,8,7,38,0.84,2015/16,Serie A|Napoli|2015/16
+Serie A,38,Internazionale,15,23,16,22,7,10,9,6,38,1,2015/16,Serie A|Internazionale|2015/16
+Serie A,40,Sassuolo,20,20,25,15,7,8,5,6,38,1.05,2015/16,Serie A|Sassuolo|2015/16
+Serie A,41,AS Roma,17,24,15,26,2,11,5,3,38,1.08,2015/16,Serie A|AS Roma|2015/16
+Serie A,42,Fiorentina,16,26,18,24,6,11,8,6,38,1.11,2015/16,Serie A|Fiorentina|2015/16
+Serie A,43,AC Milan,22,21,17,26,5,7,6,5,38,1.13,2015/16,Serie A|AC Milan|2015/16
+Serie A,45,Chievo,18,27,22,23,8,7,8,4,38,1.18,2015/16,Serie A|Chievo|2015/16
+Serie A,45,Bologna,21,24,13,32,1,11,5,8,38,1.18,2015/16,Serie A|Bologna|2015/16
+Serie A,47,Atalanta,21,26,19,28,5,13,6,5,38,1.24,2015/16,Serie A|Atalanta|2015/16
+Serie A,48,Genoa,19,29,21,27,6,11,9,3,38,1.26,2015/16,Serie A|Genoa|2015/16
+Serie A,49,Empoli,20,29,24,25,6,4,8,4,38,1.29,2015/16,Serie A|Empoli|2015/16
+Serie A,52,SS Lazio,23,29,28,24,11,6,8,4,38,1.37,2015/16,Serie A|SS Lazio|2015/16
+Serie A,55,Torino,25,30,24,31,6,10,4,2,38,1.45,2015/16,Serie A|Torino|2015/16
+Serie A,57,Carpi,26,31,29,28,8,9,4,4,38,1.5,2015/16,Serie A|Carpi|2015/16
+Serie A,60,Udinese,28,32,28,32,9,9,6,2,38,1.58,2015/16,Serie A|Udinese|2015/16
+Serie A,61,Sampdoria,25,36,31,30,10,8,5,2,38,1.61,2015/16,Serie A|Sampdoria|2015/16
+Serie A,63,Hellas Verona,30,33,28,35,8,9,-,3,38,1.66,2015/16,Serie A|Hellas Verona|2015/16
+Serie A,65,Palermo,30,35,29,36,10,9,4,6,38,1.71,2015/16,Serie A|Palermo|2015/16
+Serie A,76,Frosinone,26,50,24,52,3,17,7,-,38,2,2015/16,Serie A|Frosinone|2015/16
+Scottish Premiership,31,Celtic,12,19,11,20,4,5,10,5,38,0.82,2015/16,Scottish Premiership|Celtic|2015/16
+Scottish Premiership,40,Heart of Midlothian,22,18,21,19,9,9,8,9,38,1.05,2015/16,Scottish Premiership|Heart of Midlothian|2015/16
+Scottish Premiership,48,Inverness Cali,20,28,16,32,8,17,6,3,38,1.26,2015/16,Scottish Premiership|Inverness Cali|2015/16
+Scottish Premiership,48,Aberdeen,19,29,20,28,7,4,8,5,38,1.26,2015/16,Scottish Premiership|Aberdeen|2015/16
+Scottish Premiership,50,Partick Thistle,29,21,21,29,8,8,6,6,38,1.32,2015/16,Scottish Premiership|Partick Thistle|2015/16
+Scottish Premiership,55,St Johnstone,22,33,33,22,11,5,4,3,38,1.45,2015/16,Scottish Premiership|St Johnstone|2015/16
+Scottish Premiership,57,Dundee,23,34,25,32,12,10,3,4,38,1.5,2015/16,Scottish Premiership|Dundee|2015/16
+Scottish Premiership,61,Ross County,33,28,29,32,11,11,5,3,38,1.61,2015/16,Scottish Premiership|Ross County|2015/16
+Scottish Premiership,63,Motherwell,27,36,27,36,6,9,3,4,38,1.66,2015/16,Scottish Premiership|Motherwell|2015/16
+Scottish Premiership,63,Hamilton Academical,28,35,36,27,11,7,5,5,38,1.66,2015/16,Scottish Premiership|Hamilton Academical|2015/16
+Scottish Premiership,64,Kilmarnock,37,27,33,31,14,6,3,5,38,1.68,2015/16,Scottish Premiership|Kilmarnock|2015/16
+Scottish Premiership,70,Dundee United,35,35,33,37,5,11,1,4,38,1.84,2015/16,Scottish Premiership|Dundee United|2015/16
