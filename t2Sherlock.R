@@ -5,7 +5,10 @@ pacman:::p_load("tidyverse","readr", "ggrepel","reshape2", "devtools")
 devtools::install_github('ramnathv/slidify', dependencies = TRUE)
 install_github('ramnathv/slidifyLibraries')
 library(slidify)
+library(slidifyLibraries)
+slidify("index.Rmd")
 
+publish('TrabalhoCE2', host = 'dropbox')
                                         ##BANCO DE DADOS##
 
 Away_attendance_2014_15 <- read_csv("Away attendance 2014-15.csv")
@@ -254,7 +257,8 @@ ggplot(data= filter(All_league_nationalities, Country == "Brazil"))+
 ggplot(data= filter(All_league_nationalities, Country == "Brazil"))+
   geom_bar(aes(Season,Players, fill = League), stat = "identity")+
   facet_wrap(~League)+
-  theme(legend.position = "none")+
+  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
+        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5))+
   labs(title = "Movimentação dos brasileiros nas principais ligas", x = "Temporada", y = "Número de brasileiros")+
   scale_fill_brewer(palette = 6, type = "qual")
 
@@ -294,11 +298,10 @@ atk <- merge(atk, pos)
 #ATAQUE
 
 ggplot(atk)+
-  geom_bar(aes(x = reorder(Team,-`GF Per Match`, FUN = mean),  P_Away, fill = Season), stat = "identity", position = "dodge")+
-  geom_text(
-    aes(x = Team, y = P_Away, label = Pos, group = Season),
-    position = position_dodge(width = 1),
-    vjust = -0.5, size = 3)
+  geom_point(aes(Team,  P_Away, color = Season), size = 4)+
+  geom_text_repel(
+    aes(x = Team, y = P_Away, label = Pos)
+    , size = 3)
 
 #CONTRA ATAQUE
 
@@ -308,8 +311,26 @@ ggplot(atk)+
 #MEDIA DE GOLS
 
 ggplot(data = All_tem_offense, mapping = aes(x = `GF Per Match`)) +
-  geom_freqpoly(aes(color = League),binwidth = 0.6)+
-  facet_wrap(~Season)
+  geom_freqpoly(aes(color = League), binwidth = 0.6, size = 1)+
+  facet_wrap(~Season)+
+  theme_minimal()+
+  labs(x = "Liga", y = "Pontuação")+
+  theme(strip.background =element_rect(fill="skyblue"))+
+  theme(strip.text = element_text(colour = 'black'))
+  
+
+temporada_compl <- filter(All_tables, `Table Type` == "League Table")
+
+ggplot(data = temporada_compl, aes(x = reorder(League, Pts, FUN = median), Pts, fill = League))+
+  geom_boxplot()+
+  facet_wrap(~Season, ncol = 2)+
+  theme_minimal()+
+  labs(x = "Liga", y = "Pontuação", fill = "Liga")+
+  theme(strip.background =element_rect(fill="skyblue"))+
+  theme(strip.text = element_text(colour = 'black'))+
+  geom_text_repel(
+    data = filter(temporada_compl, Pos == 1),
+    aes(League, Pts,label= Team),box.padding = unit(0.5, "lines"))
 
 ##MELHORES DEFESAS
 #SELECIONANDO E CRIANDO VERIFICADORES
@@ -352,9 +373,32 @@ ggplot(All_home_attendance)+
   geom_boxplot(aes(x = reorder(League, -`Avg Home Attendance`, FUN =  median), `Avg Home Attendance`))+
   facet_wrap(~Season)+
   theme_bw()+
-  theme(strip.background =element_rect(fill="red"))+
-  theme(strip.text = element_text(colour = 'white'))
+  theme(strip.background =element_rect(fill="skyblue"))+
+  theme(strip.text = element_text(colour = 'black'))
   
+
+
+ggplot(data = filter(All_home_attendance, Team == "Borussia Dortmund" |
+                       Team== "Barcelona"|
+                       Team == "Manchester United" | Team ==
+                     "Bayern Munich" | Team ==  "Real Madrid"))+
+  geom_bar(aes(x = reorder(Team, -`Avg Home Attendance`, FUN =  median)
+               , `Avg Home Attendance`, fill = League), stat = "identity")+
+  facet_wrap(~Season)+
+  theme_bw()+
+  theme(strip.background =element_rect(fill="skyblue"))+
+  theme(strip.text = element_text(colour = 'black'))+
+  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
+        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
+  labs(title = "Clubes com média de público maior que 70000", x = "Clube", y = "Média de público", fill = "Liga")+
+  scale_fill_brewer(palette = 6, type = "qual")+
+  geom_text_repel(aes(x = Team, y = `Avg Home Attendance`, label = `Highest Home Attendance`, vjust = -0.5))
+
+
+
+
+
+
 
                       ##Análise dos jogadores##
 
