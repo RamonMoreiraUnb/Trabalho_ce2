@@ -15,6 +15,7 @@ assets      : {assets: ../../assets}
 
 ---.segue bg:url(pensando.jpg)
 
+
 ---.segue bg:url(jogador.png)
 
 
@@ -221,15 +222,15 @@ ggplot(data = temporada_compl, aes(x = reorder(League, Pts, FUN = median), Pts, 
   geom_boxplot()+
   facet_wrap(~Season, ncol = 2)+
   theme_minimal()+
-  scale_fill_brewer(palette = 6, type = "qual")+
+  scale_fill_brewer(palette = 8, type = "qual")+
   labs(title = "Pontuação com os campeões de cada ano", x = "Liga", y = "Pontuação", fill = "Liga")+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5, size = 20))+
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text.x=element_blank(),axis.text = element_text(size= 17),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
   geom_text_repel(
     data = filter(temporada_compl, Pos == 1),
-    aes(League, Pts,label= Team),box.padding = unit(0.5, "lines"))
+    aes(League, Pts,label= Team),box.padding = unit(0.3, "lines"), size = 4.5, color = "darkred")
 ```
 
 --- .class
@@ -240,10 +241,12 @@ ggplot(data = temporada_compl, aes(x = reorder(League, Pts, FUN = median), Pts, 
 ggplot(data = temporada_compl, aes(`F`, A))+
   geom_point(aes(color= Season), size = 3)+
   theme_minimal()+
-  geom_smooth(method = lm, se = F, color = "red", size = 2)+
+  geom_smooth(method = lm, se = F, color = "grey", size = 2)+
   labs(x = "Gols marcados", y = "Gols sofridos", color = "Temporada")+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5))+
+  theme(strip.background =element_rect(fill="skyblue"))+
+  theme(strip.text = element_text(colour = 'black', size = 11))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text = element_text(size= 17),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
   geom_text_repel(
     data = filter(temporada_compl, GD > 79| GD < -50),
     aes(`F`, A,label= Team),box.padding = unit(0.5, "lines"), size = 6)
@@ -269,7 +272,9 @@ Os times com o melhor e o pior saldo de gols são, respectivamente :
 ggplot(data = temporada_compl, aes(`F`, A))+
   geom_point(aes(color= Season), size = 3)+
   theme_minimal()+
-  geom_smooth(method = lm, se = F, color = "red", size = 2)+
+  geom_smooth(method = lm ,se = F, color = "grey", size = 2)+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text = element_text(size= 17),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
   labs(x = "Gols marcados", y = "Gols sofridos", color = "Temporada")+
   geom_text_repel(
     data = filter(temporada_compl, GD > 79| GD < -50),
@@ -292,11 +297,11 @@ ggplot(data = All_tem_offense, mapping = aes(x = `GF Per Match`)) +
   facet_wrap(~Season)+
   theme_minimal()+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text = element_text(size= 17),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
   labs(title = "Polígono de frequência da média de gols marcados", x = "Gols marcados", y = "Frequência", color = "Liga")+
-  scale_colour_brewer(palette = 6, type = "qual")
+  scale_colour_brewer(palette = 8, type = "qual")
 ```
 
 --- .class
@@ -309,11 +314,11 @@ ggplot(data = All_team_defense, mapping = aes(x = `GA Per Match`)) +
   facet_wrap(~Season)+
   theme_minimal()+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text = element_text(size= 17),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
   labs(title = "Polígono de frequência da média de gols sofridos", x = "Gols sofridos", y = "Frequência", color = "Liga")+
-  scale_colour_brewer(palette = 6, type = "qual")
+  scale_colour_brewer(palette = 8, type = "qual")
 ```
 
 ---.segue bg:green
@@ -331,12 +336,13 @@ maisde25 <- All_league_nationalities %>%
 ggplot(maisde25)+
   geom_bar(aes(x = reorder(League, Porcentagem,FUN = sum),Porcentagem, fill = League), stat= "identity")+
   facet_wrap(~Season)+
+  theme_minimal()+
   labs(title = "Porcentagem de jogadores que atuam no país de origem", y = "Porcentagem", x = "Liga", fill = "Liga")+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 18))+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  scale_fill_brewer(palette = 6, type = "qual")
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text.x=element_blank(),axis.text.y=element_text(size = 17),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
+  scale_fill_brewer(palette = 8, type = "qual")
 
 ```
 
@@ -353,12 +359,13 @@ ggplot(maisde25)+
 ggplot(data= filter(All_league_nationalities, Country == "Brazil"))+
   geom_bar(aes(Season,Players, fill = League), stat = "identity")+
   facet_wrap(~League)+
+  theme_minimal()+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text=element_text(size=13),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
   labs(title = "Movimentação dos brasileiros nas principais ligas", x = "Temporada", y = "Número de brasileiros", fill = "Liga")+
-  scale_fill_brewer(palette = 6, type = "qual")
+  scale_fill_brewer(palette = 8, type = "qual")
 ```
 
 
@@ -378,11 +385,11 @@ ggplot(All_home_attendance)+
   facet_wrap(~Season)+
   theme_bw()+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text.x = element_blank(),axis.text.y = element_text(size = 15),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
   labs( x = "Liga", y = "Média de público", fill = "Liga")+
-  scale_fill_brewer(palette = 6, type = "qual")
+  scale_fill_brewer(palette = 8, type = "qual")
 ```
 
 --- .class
@@ -396,16 +403,16 @@ ggplot(data = filter(All_home_attendance, Team == "Borussia Dortmund" |
                        Team == "Manchester United" | Team ==
                      "Bayern Munich" | Team ==  "Real Madrid"))+
   geom_bar(aes(x = reorder(Team, -`Avg Home Attendance`, FUN =  median)
-               , `Avg Home Attendance`, fill = League), stat = "identity")+
+               , `Avg Home Attendance`, fill = Team), stat = "identity")+
   facet_wrap(~Season)+
   theme_bw()+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
-  labs(title = "Clubes com maiores médias de público e seu recorde no ano", x = "Clube", y = "Média de público", fill = "Liga")+
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text.x = element_blank(),axis.text.y = element_text(size = 15),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
+  labs(title = "Clubes com maiores médias de público e seu recorde no ano", x = "Clube", y = "Média de público", fill = "Time")+
   scale_fill_brewer(palette = 6, type = "qual")+
-  geom_text_repel(aes(x = Team, y = `Avg Home Attendance`, label = `Highest Home Attendance`, vjust = -0.5))
+  geom_text_repel(aes(x = Team, y = `Avg Home Attendance`, label = `Highest Home Attendance`, vjust = -0.5), size = 5)
 ```
 
 ---.segue bg:grey
@@ -426,17 +433,18 @@ jogadores <- All_player_stats %>%
 #ARTILHEIROS
 
 ggplot(data = filter(jogadores, Goals >10))+
-  geom_boxplot(aes(League, Goals), fill = "darkred")+
+  geom_boxplot(aes(League, Goals,fill = League))+
   facet_wrap(~Season)+
   geom_text_repel(
     data = filter(jogadores, Goals>30),
-    aes(League, Goals,label= Player, color = Team),box.padding = unit(0.5, "lines"))+
+    aes(League, Goals,label= Player, color = Team),box.padding = unit(0.3, "lines"),size = 5)+
   theme_bw()+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
-  labs(title = "Número de gols por atleta, com ênfase nos que marcaram mais de 30", x = "Liga", y = "Número de gols", color = "Time")
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text.x = element_blank(),axis.text.y = element_text(size = 15),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
+  labs(title = "Número de gols por atleta, com ênfase nos que marcaram mais de 30", x = "Liga", y = "Número de gols", color = "Time", fill = "Liga")+
+  scale_fill_brewer(palette = 8, type = "qual")
     
 ```
 
@@ -446,17 +454,18 @@ ggplot(data = filter(jogadores, Goals >10))+
 
 ```{r,fig.height=7, fig.width=12, message= TRUE , warning=FALSE, echo=FALSE,fig.align='center'}
 ggplot(data = filter(jogadores, Assists > 3))+
-  geom_boxplot(aes(League, Assists), fill = "yellowgreen")+
+  geom_boxplot(aes(League, Assists, fill = League))+
   facet_wrap(~Season)+
   geom_text_repel(
   data = filter(jogadores, Assists>15),
-           aes(League, Assists,label= Player, color = Team),box.padding = unit(0.5, "lines"))+
+           aes(League, Assists,label= Player, color = Team),box.padding = unit(0.5, "lines"),size = 5)+
   theme_bw()+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
-  labs(title = "Número de assistências por atleta, com ênfase nos que fizeram mais de 15", x = "Liga", y = "Número de assistências", color = "Time")
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text.x = element_blank(),axis.text.y = element_text(size = 15),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
+  labs(title = "Número de assistências por atleta, com ênfase nos que fizeram mais de 15", x = "Liga", y = "Número de assistências", color = "Time", fill = "Liga")+
+  scale_fill_brewer(palette = 8, type = "qual")
 ```
 
 ---.class
@@ -465,16 +474,18 @@ ggplot(data = filter(jogadores, Assists > 3))+
 
 ```{r,fig.height=7, fig.width=12, message= TRUE , warning=FALSE, echo=FALSE,fig.align='center'}
 ggplot(data = filter(All_player_stats, Appearances > 10))+
-  geom_boxplot(aes(League, CS), fill = "orange")+
+  geom_boxplot(aes(League, CS, fill = League))+
   facet_wrap(~Season)+
   geom_text_repel(data =filter(All_player_stats, CS > 17), aes(League, CS, label = Player , color = Team)
-                  ,box.padding = unit(0.5, "lines"))+
+                  ,box.padding = unit(0.5, "lines"),size = 4.5)+
   theme_bw()+
   theme(strip.background =element_rect(fill="skyblue"))+
-  theme(strip.text = element_text(colour = 'black'))+
-  theme(axis.title=element_text(size=16),legend.text=element_text(size=12),
-        legend.title=element_text(size=14), plot.title = element_text(hjust=0.5 ,size = 20))+
-  labs(title = "Goleiros menos vazados, com ênfase nos melhores", x = "Liga", y = "Partidas sem levar gols", color = "Time")
+  theme(strip.text = element_text(colour = 'black', size = 12))+
+  theme(axis.title=element_text(size=18),legend.text=element_text(size=17),axis.text.x = element_blank(),axis.text.y = element_text(size = 15),
+        legend.title=element_text(size=18), plot.title = element_text(hjust=0.5, size = 22))+
+  labs(title = "Goleiros menos vazados, com ênfase nos melhores", x = "Liga", y = "Partidas sem levar gols", color = "Time", fill = "Liga")+
+  scale_fill_brewer(palette = 8, type = "qual")
 ```
 
 ---.segue bg:url(conclusao.jpg)
+# Conclusão

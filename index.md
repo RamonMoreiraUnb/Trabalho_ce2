@@ -15,6 +15,7 @@ assets      : {assets: ../../assets}
 
 ---.segue bg:url(pensando.jpg)
 
+
 ---.segue bg:url(jogador.png)
 
 
@@ -130,3 +131,4 @@ O Barcelona teve um saldo de gols de 89 e o Troyes de -55.
 <img src="figure/unnamed-chunk-12-1.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" style="display: block; margin: auto;" />
 
 ---.segue bg:url(conclusao.jpg)
+# Conclusão

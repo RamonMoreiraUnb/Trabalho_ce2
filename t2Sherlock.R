@@ -2,13 +2,12 @@
 if (!require("pacman")) install.packages("pacman")
 pacman:::p_load("tidyverse","readr", "ggrepel","reshape2", "devtools")
 #setwd(choose.dir())
-devtools::install_github('ramnathv/slidify', dependencies = TRUE)
+devtools::install_github('ramnathv/slidify')
 install_github('ramnathv/slidifyLibraries')
 library(slidify)
 library(slidifyLibraries)
 slidify("index.Rmd")
 
-publish('TrabalhoCE2', host = 'dropbox')
                                         ##BANCO DE DADOS##
 
 Away_attendance_2014_15 <- read_csv("Away attendance 2014-15.csv")
